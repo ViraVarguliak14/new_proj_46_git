@@ -9,6 +9,9 @@
 7. Зарегистрировать в Git ваши имя пользователя и емейл
 
 
+     git config --global user.email "your_email@example.com" 
+     git config --global user.name "Your Name"
+
 ***Публикация проекта на GitHub***
 
 1. Создать проект
